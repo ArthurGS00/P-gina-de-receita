@@ -1,0 +1,1 @@
+Esta página de receita é o primeiro desafio do curso de Full Stack que estou realizando na Rocketseat. Achei o exercício tranquilo e estou empolgado para continuar desenvolvendo e compartilhando novos projetos no meu GitHub ao longo da jornada!
